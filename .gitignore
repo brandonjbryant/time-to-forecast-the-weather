@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#TSA Project
+GlobalLandTemperaturesByCountry.csv
+GlobalLandTemperaturesByMajorCity.csv
+GlobalLandTemperaturesByState.csv
+explore.ipynb
+modeling-3.ipynb
