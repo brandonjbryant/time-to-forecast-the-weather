@@ -1,6 +1,6 @@
 # Time-To-Forecast-The-Weather
 
-- This project uses a various classification models to predict drivers in red wine quality rankiings.
+- This project uses a various Time Series Analysis methods and models to predict the weather forecast in [insert city name here]
 - In this README I will :
     * Explain what the project is and goals I attempted to reach. 
     * Explain how to reproduce my work. 
