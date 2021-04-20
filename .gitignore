@@ -132,5 +132,6 @@ dmypy.json
 GlobalLandTemperaturesByCountry.csv
 GlobalLandTemperaturesByMajorCity.csv
 GlobalLandTemperaturesByState.csv
+GlobalLandTemperaturesByCity.csv
 explore.ipynb
 modeling-3.ipynb
