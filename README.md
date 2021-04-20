@@ -11,6 +11,8 @@
 
 ## Project Planning
 - Trello Board Link:
+https://trello.com/b/C5zkPkLB/time-series-project
+
 
 **Deliverables:**
 1. README.md file containing overall project information, how to reproduce work, and notes from project planning.
